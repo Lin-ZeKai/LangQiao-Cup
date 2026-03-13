@@ -1,4 +1,5 @@
-```cpp`
+```cpp
+
 #include <iostream>   // 输入输出流头文件，用于 cin、cout
 #include <string>     // 字符串类头文件，用于 string 类型
 #include <algorithm>  // 算法头文件，用于 reverse 函数
@@ -120,4 +121,4 @@ int main() {
 
     return 0; // 程序正常结束
 }
-````
+
